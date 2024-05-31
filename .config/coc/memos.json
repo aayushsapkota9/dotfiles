@@ -1,0 +1,11 @@
+{
+  "coc-json|global": {
+    "json-schema-cache": {
+      "https://json.schemastore.org/swagger-2.0.json": {
+        "etag": "\"0a624b1156da1:0\"",
+        "fileName": "2be3b0ba5d7afaced8cb1c4b0ae3acaa.schema.json",
+        "updateTime": 1716305058621
+      }
+    }
+  }
+}
